@@ -1,0 +1,12 @@
+Albedo Recovery Seed Phrase (24 words)
+
+devote fog visit woman tomorrow legal sail absorb
+innocent there inhale jazz good staff arrange human
+welcome metal trend mountain blanket eight federal flight
+
+Important:
+- DO NOT share this phrase with anyone.
+- Store in multiple encrypted formats or physical locations.
+- This grants full control over the associated Stellar wallet.
+
+Generated on: May 16, 2025

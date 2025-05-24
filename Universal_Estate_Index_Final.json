@@ -1,0 +1,17 @@
+{
+    "index_version": "1.0",
+    "last_updated": "2025-05-15T18:16:10.357928Z",
+    "estates": [
+        {
+            "title": "Upper Hillview Sovereign Estate",
+            "label": "13th Flame Bearer",
+            "stellar_address": "GA4H43P2VPP3CICC7WHZOLCYGDVFUBNDSYTZCRNYOISSLJC4DG3NR6MC",
+            "ipfs_cid": "bafybeiftniwmgwsa3pnjmrkfqfjynthgjpcww2qiojflkobgyqxaxn3rq4",
+            "verification_page": "https://bafybeiftniwmgwsa3pnjmrkfqfjynthgjpcww2qiojflkobgyqxaxn3rq4.ipfs.w3s.link/",
+            "qr_code_file": "Updated_IPFS_QR_Upper_Hillview.png",
+            "date_registered": "2025-05-15T18:16:10.357874Z",
+            "status": "Verified - Final",
+            "memo_hash": "978f177ea9655f7f6786d953f1b0040526f013a88b5646925b0ed9bbb0b32"
+        }
+    ]
+}

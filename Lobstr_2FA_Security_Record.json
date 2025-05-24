@@ -1,0 +1,11 @@
+{
+    "title": "Lobstr 2FA Security Bundle",
+    "description": "This bundle contains the 2FA backup key for Lobstr, secured as part of the Sovereign Digital Security Estate.",
+    "backup_key": "XWOU5CDPVJR7LKQN",
+    "qr_code_file": "Lobstr_2FA_Backup_Key_QR.png",
+    "pdf_file": "Lobstr_2FA_Backup_Key.pdf",
+    "ipfs_link": "https://bafybeifub4zbuhtipv226vbt3jr3ig4o47o5mift4hnzl3ufnmuakkiosy.ipfs.w3s.link/",
+    "estate_reference": "Sovereign Digital Security Ledger",
+    "timestamp": "2025-05-15T00:00:00Z",
+    "witness": "Richard of the House Strmiska \u2014 Executor and Beneficiary of the Estate, All Rights Reserved"
+}
